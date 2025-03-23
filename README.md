@@ -17,6 +17,7 @@ An interactive narrative platform connecting stories to real-world events. The p
 - [Getting Started](#getting-started)
 - [Environment Configuration](#environment-configuration)
 - [Deployment](#deployment)
+- [Releases](RELEASES.md)
 - [Contributing](#contributing)
 - [License](#license)
 
