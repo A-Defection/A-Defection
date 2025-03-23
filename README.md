@@ -295,4 +295,14 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact & Social Media
+
+- **Official Website**: [adefection.xyz](https://adefection.xyz)
+- **Twitter**: [@A_Defection](https://x.com/A_Defection)
+- **GitHub**: [@A-Defection](https://github.com/A-Defection)
+
+---
+
+Copyright © 2024 A Defection. All rights reserved. 
